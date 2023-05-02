@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: chocolate;
+    font-weight: 900;
+    font-size: 77px;
+    padding: 22px;
+    background-color: black;
+    margin: 33px;
+}
+h2{
+    text-align: center;
+    color:white;
+    font-weight: 800;
+    font-size: 50px;
+    padding: 33px ;
+    margin: 0% 35%;
+    background-color: black;
+    border-radius: 20px;
+    border-left: solid 10px rgb(73, 125, 171);
+    border-right: solid 10px rgb(205, 95, 55);
+    border-top : solid 10px chocolate;
+    border-bottom : solid 10px rgb(196, 39, 118)
+}
+ul{
+    text-decoration: underline;
+    text-align: center;
+    list-style-type: circle;
+    color: white;
+    padding: 2% ;
+    margin: 0% 35%;
+}
+li{
+    color: white;
+    text-align: left;
+    padding: 2% ;
+    background-color: black;
+    border-radius: 5px;
+}
